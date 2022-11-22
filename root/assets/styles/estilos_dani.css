@@ -1,10 +1,10 @@
 body{
-    background-color: black;
+    background-color: rgb(0, 255, 145);
     color: #ffffff;
 }
 
 article{
-color: rgb(3, 11, 83);
+color: rgb(0, 26, 255);
 }
 
 nav>ul>li{
