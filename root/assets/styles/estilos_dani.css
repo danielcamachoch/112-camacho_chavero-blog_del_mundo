@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(0, 255, 145);
+    background-color: rgb(59, 76, 205);
     color: #ffffff;
 }
 
@@ -15,3 +15,5 @@ nav>ul>li{
     text-align: center;
     font-size: 3rem;
 }
+
+div{  background-color: rgb(7, 4, 1);}
